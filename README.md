@@ -1,4 +1,4 @@
-# thirdweb docs
+
 
 This Repository contains the source code for thirdweb Docs Website. This website is built using [Next.js 13](https://nextjs.org/docs) ( App Router)
 
